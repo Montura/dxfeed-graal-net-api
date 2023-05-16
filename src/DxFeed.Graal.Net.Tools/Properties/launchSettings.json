@@ -14,6 +14,13 @@
       "nativeDebugging": true,
       "environmentVariables": {
       }
+    },
+    "PerfTest": {
+      "commandName": "Project",
+      "commandLineArgs": "perftest 127.0.0.1:6666 TimeAndSale ETH/USD:GDAX -p JAVA_HOME=D:\\Tools\\jdk1.8.0_362",
+      "nativeDebugging": true,
+      "environmentVariables": {
+      }
     }
   }
 }
